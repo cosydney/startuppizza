@@ -78,13 +78,43 @@ at 20h45
 * Start receiving pizza
 
 
+## Appendice
 
+Description Intra:
+```
+ASSOCIATION
+STARTUP PIZZA NIGHT - 42 ENTREPRENEURS
+September 26, 2018 at 19:00
+ September 26, 19:00
+ for about 3 hours
+ Cantine
+ 1 / 50
+C'est la rentrée et nous reprenons nos bonnes habitudes avec notre désormais culte Startup Pizza Night !
 
+Mais qu'est-ce qu'une Startup Pizza Night ?
 
+C'est un meetup où l'on peut échanger avec des entrepreneurs, des élèves de 42 autour d'une thématique. En première partie nous donnons la parole à des experts dans le domaine, puis nous vous donnons la possibilité d'échanger plus longuement (et librement) autour de pizzas.
 
+Cette fois ci, nous aborderons le thème de l'eSport. Si vous souhaitez pitcher, vous pouvez nous écrire sur pizza@42entrepreneurs.fr
 
+Inscrivez vous dés maintenant à l'évent pour être tenu au courant des invités spéciaux.
 
+Inscription de 10€ obligatoire sur eventbrite: https://www.eventbrite.com/e/startup-pizza-night-10-esport-tickets-49169203411?aff=efbeventtix
 
+Sauf ceux qui porte un pull 42entrepreneurs.
+```
 
+Email example for speaker once they accepted.
+```
+Bonjour {name},
 
+Ravi de te compter parmis nos speaker au prochain startup pizza night.
 
+Pour le déroulement : On invite en général 3 à 5 intervenants à parler de leur problématique autour d'une thématique. Avec environ 15/20 minutes de temps de paroles/discussion par personne (sans slide).
+Le but étant de faire un tour d'horizon du sujet pour amorcer les discussions/networking qui arrivent juste après autour de pizzas :). 
+
+Début : 19h30, fin estimée : 21h30/22h. Album facebook d'un des évènement organisé dérniérement avec Jean de Kima.
+
+Est ce que tu as des questions? La date est fixé au 26 septembre.
+
+```
