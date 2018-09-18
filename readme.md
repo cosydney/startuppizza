@@ -80,7 +80,7 @@ at 20h45
 
 ## Appendice
 
-Description Intra:
+*Description Intra:*
 ```
 ASSOCIATION
 STARTUP PIZZA NIGHT - 42 ENTREPRENEURS
@@ -104,7 +104,7 @@ Inscription de 10€ obligatoire sur eventbrite: https://www.eventbrite.com/e/st
 Sauf ceux qui porte un pull 42entrepreneurs.
 ```
 
-Email example for speaker once they accepted.
+*Email example for speaker once they accepted.*
 ```
 Bonjour {name},
 
