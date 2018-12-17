@@ -65,14 +65,14 @@ Appoint someone to take pictures the day of the event, used to be shared on face
 
 During the day: 
 * Receive drinks, and put them in fridge
-*
+
 * at 18h: Prepare Room with enough Chairs
 * Put up 42entrepreneurs Startup Pizza Night poster
 * Put up Kakemono
-*
+
 * at 19h: Have someone welcome guest and speakers at the entrance with bracelets from 19h
 * Open beer and enjoy
-*
+
 * at 19h45: Have everyone sit down and speaker to start pitching
 * at 20h45: Start receiving pizza
 
